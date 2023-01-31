@@ -1,0 +1,21 @@
+/***** Body *****/
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #D5CEA3;
+    height: 1200px;
+}
+/***** Navigation *****/
+.nav-up {
+    text-align: center;  
+    margin-left: 3mm;
+    height: 300px;
+    font-size: 30px; 
+}
+/***** Main - Article *****/
+#main-art {
+    position:relative; bottom: 7cm;
+}
+/***** Contact *****/
+#contact {
+    text-decoration: underline;
+}

@@ -1,0 +1,50 @@
+/***** Body *****/
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #D5CEA3;
+    height: 1050px;
+    
+}
+/***** Navigation *****/
+.nav-up {
+    text-align: center;  
+    margin-left: 3mm;
+    height: 300px;
+    font-size: 30px; 
+}
+
+/***** Main Figure *****/
+#main-article {
+    text-align: center;
+    margin-top: -250px;
+}
+
+/***** Font Size *****/
+.font-15 {
+    font-size: 15px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+/***** Figur Examples *****/
+#figures  {
+    list-style: none;
+    font-family: 'Pacifico', cursive;
+    width: 5cm;
+    display:flexbox;
+    
+}
+
+#figures2  {
+    list-style: none;
+    font-family: 'Pacifico', cursive;
+    width: 5cm;
+    display:flexbox
+}
+
+

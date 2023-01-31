@@ -1,0 +1,44 @@
+/***** Body *****/
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #D5CEA3;
+    height: 3000px;
+
+}
+/***** Navigation *****/
+.nav-up {
+    text-align: center;  
+    margin-left: 3mm;
+    height: 300px;
+    font-size: 30px; 
+}
+#products  {
+    height: 250px;
+    width: 200px;
+    display: block;
+    margin:auto;
+    
+   
+}
+/***** Figure-Prices *****/
+#ol-figure {
+    margin: auto;
+    height: 400px;
+    width: 400px;
+    position: relative; bottom: 8cm;
+    font-size: 20px;
+    
+}
+#prices {
+    position: relative; left: 170px;
+}
+/***** hr *****/
+hr {
+    border-color: black;
+}
+/***** li *****/
+li {
+    text-align: start;
+}
+
+
